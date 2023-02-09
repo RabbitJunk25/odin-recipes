@@ -1,5 +1,7 @@
 This is my first Odin project
 
-i have no idea what it is about but it has something to do with recipes
+This is a list of my favourite recipes that include mince curry, lasagne and pizza
 
-we will find out later and edit this file when i have some clue to what this is about
+all recipes include the ingredients needed and the steps taken to prepare the dish
+
+#I hace used all basic html functions to create this wepage of recipes as my first odin project
